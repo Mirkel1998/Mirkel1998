@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color-gradient=bf4b8a,9D00FF,bf4b8a&height=150&section=header&text=Hello%20World👋&fontSize=60&fontColor=ffffff" />
 </p>
 
-## 🙈 About Me
+## About Me
 
 I'm Mikkel. I have an AP degree in multimedia design and enjoy building things with Vue.js. I'm especially drawn to frontend development and design.
 
